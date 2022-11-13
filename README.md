@@ -1,6 +1,5 @@
 # Instacart-Analysis-Python
 Data Analytics program analysis project using Python
-![instacart image]("C:\Users\miche\OneDrive\Pictures\instacart.png")
 ## Objective
 Instacart is an online grocery ordering platform. Sales are high, but the business intelligence unit is looking to uncover more information about their sales patterns and buying habits of customer profiles.
 ## Learning Modules
